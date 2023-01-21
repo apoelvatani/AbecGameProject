@@ -1,4 +1,4 @@
-# AbecGame
+# AbecGame :joystick:
 - Oyuncuların Mernis doğrulamasına göre kayıt olabileceği 
 - Oyuncuların kayıtlarını güncelleyebileceği 
 - Oyuncuların TC kimlik numarasına göre kaydedilen bilgilerini getirebileceği
